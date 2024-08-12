@@ -1,0 +1,13 @@
+{
+    
+    "compilerOptions": {
+      "target": "ESNext",
+      "lib":["ESNext"],
+      "moduleResolution": "node",
+      "baseUrl": "./src",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true
+    }
+  }
