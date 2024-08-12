@@ -1,6 +1,6 @@
-#DefineBlok
+# DefineBlok
 
-##Project structure
+## Project structure
 
 **exampleProject** - folder that immitates directory that holds all the comopnents. Each component can contain 'defineBlok' function to define the schema of the given blok
 
